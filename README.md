@@ -44,5 +44,5 @@ pipeline:
 
   step_4_kill_switch:
     action: "任务跑完触发注销，未消耗资金毫秒级无损回流母账户"
-  <img width="1983" height="793" alt="fec98f64d238d8e8158311c5e0098def" src="https://github.com/user-attachments/assets/a382a3d2-bc14-4eb0-a7f1-f509f167212b" />
+   
   
